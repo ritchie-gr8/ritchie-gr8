@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently learning Lynx by TikTok and pursuing my Master's in Information Technology @TNI.<br>🎯 Goal: To join a software development team and collaborate on innovative projects.<br>🎲 Fun Fact: My first programming course was CS50 by Harvard — it ignited my passion for coding!</p>
+<p align="left">📚 Currently learning Go and pursuing my Master's in Information Technology @TNI.<br>🎯 Goal: To join a software development team and collaborate on innovative projects.
 
 ###
 
