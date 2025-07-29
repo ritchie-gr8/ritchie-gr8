@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently learning Go and pursuing my Master's in Information Technology @TNI.<br>🎯 Goal: To join a software development team and collaborate on innovative projects.
+<p align="left">📚 Currently learning Rust and pursuing my Master's in Information Technology @TNI.</p>
 
 ###
 
